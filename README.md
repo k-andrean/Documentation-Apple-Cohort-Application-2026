@@ -61,7 +61,7 @@ By contribution and working on the project, i am able to understand the business
 - Initiated by : Work Assignment
 - Project Scope : Group Project
 
-#### Screenshots
+### Screenshots
 
 <p align="center">
   <img src="assets/Project Epion/epion1.jpg" alt="Screenshot 1" width="45%" />
@@ -88,7 +88,7 @@ By contribution and working on the project, i am able to understand the business
 - Project Scope : Personal Project
 - Video Demo : [Video Demo](https://drive.google.com/file/d/1TJqD4yWlD78BJIMWzRTKxuLA9GWIuek7/view?usp=sharing)
 
-#### Screenshots
+### Screenshots
 
 <p align="center">
   <img src="assets/Project WorkIT/workit1.jpg" alt="Screenshot 1" width="45%" />
@@ -120,7 +120,7 @@ By contribution and working on the project, i am able to understand the business
 - Project Scope : Group Project
 - Video Demo : [Video Demo](https://drive.google.com/file/d/1fTfO7v0EdKKbi8ZZ85FvolTneBuTHtQl/view?usp=sharing)
 
-#### Screenshots
+### Screenshots
 
 <p align="center">
   <img src="assets/Project VidioGen/videogen1.jpg" alt="Screenshot 1" width="45%" />
@@ -151,7 +151,7 @@ By contribution and working on the project, i am able to understand mobile devel
 - Initiated by : Self/Personal
 - Project Scope : Personal Project
 
-#### Screenshots
+### Screenshots
 
 <p align="center">
   <img src="assets/Project Transtock/mobilestockapp1.jpg" alt="Screenshot 1" width="45%" />
@@ -180,7 +180,7 @@ By contribution and working on the project, i am able to understand games develo
 - Initiated by : Self/Personal
 - Project Scope : Personal Project
 
-#### Screenshots
+### Screenshots
 
 <p align="center">
   <img src="assets/Project Escapium/escapium 1.jpg" alt="Screenshot 1" width="45%" />
